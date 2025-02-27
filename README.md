@@ -1,0 +1,1 @@
+# log_smart_doc
